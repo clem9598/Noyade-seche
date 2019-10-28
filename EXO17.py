@@ -1,5 +1,4 @@
 mot = input("Entrer un mot : ")
-nombre_lettre = len(mot)
 
 # Fonction Palyndrome
 def palyndrome(var1) :
